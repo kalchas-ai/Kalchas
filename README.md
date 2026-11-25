@@ -47,6 +47,10 @@ cp .env.example .env.local   # paste your OpenRouter key
 pnpm start                   # open http://localhost:3000/app
 ```
 
+## License
+
+Apache 2.0, with two additional conditions: offering Kalchas as a hosted service to others needs our permission, and the Kalchas name and logo stay in its interface. See [LICENSE](LICENSE).
+
 <br>
 
 <p align="center">
