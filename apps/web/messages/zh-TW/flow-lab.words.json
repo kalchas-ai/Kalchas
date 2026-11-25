@@ -1,0 +1,20 @@
+{
+  "example": "辭職去讀一年制的金融碩士",
+  "start": "開始",
+  "tagline": "未來不只一種",
+  "pressEnter": "按 Enter 開始",
+  "whatMatter": "你在想哪件事？",
+  "recent": "最近",
+  "all": "全部 {count}",
+  "waiting_other": "{count} 件等你",
+  "skip": "略過",
+  "toAsk": "要問的事 · {count}",
+  "sources_other": "<n>{count}</n> 個來源",
+  "read": "已讀 <n>{count}</n>",
+  "sourcesHead": "來源 · {count}",
+  "findings": "情報",
+  "world": "世界",
+  "end": "結束",
+  "when": "{date} · 第 {step} 次決定",
+  "youAre": "你是 {name}"
+}

@@ -1,0 +1,12 @@
+{
+  "odds": "Chances {pct}%",
+  "moreInStep_one": "mais {count} neste passo",
+  "moreInStep_other": "mais {count} neste passo",
+  "sinceStart": "No início {start} → agora {now}",
+  "reaches": "Atinge <b>{names}</b>",
+  "sep": ", ",
+  "reachesOnlyYou": "Atinge só você",
+  "doThis": "Fazer isto →",
+  "writeOwn": "Ou escreva sua própria jogada…",
+  "addFact": "Você também pode acrescentar um fato sobre como as coisas estão, como “o repositório chegou a 50 mil estrelas”"
+}

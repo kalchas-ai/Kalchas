@@ -1,0 +1,15 @@
+{
+  "sep": "; ",
+  "askFailed": "Frage fehlgeschlagen",
+  "people_one": "Person",
+  "people_other": "Personen",
+  "facts_one": "Fakt",
+  "facts_other": "Fakten",
+  "ties_one": "Beziehung",
+  "ties_other": "Beziehungen",
+  "sources_one": "Quelle",
+  "sources_other": "Quellen",
+  "questionsFailed": "Die Fragen konnten nicht geschrieben werden",
+  "stalled": "Dieser Schritt steht schon lange still; der laufende Prozess wurde möglicherweise unterbrochen.",
+  "rewrite": "Fragen neu schreiben →"
+}

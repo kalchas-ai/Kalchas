@@ -1,0 +1,19 @@
+{
+  "today.q": "What are you about to decide?",
+  "today.hint": "Say what you want to do, and why…",
+  "today.example1": "Quit my job to do a one-year master's in finance",
+  "today.example2": "Open a specialty coffee shop in Hangzhou",
+  "today.example3": "Take a demo to Silicon Valley to raise money",
+  "today.example4": "Buy my first home in Chengdu next year",
+  "past.q": "Which moment do you want to go back to?",
+  "past.hint": "A moment that really happened, and whose place you want to stand in…",
+  "past.example1": "2015, in the place of Theranos's founder",
+  "past.example2": "Steve Jobs in 1985, pushed out of Apple",
+  "past.example3": "The week before Lehman fell in 2008",
+  "past.example4": "The year Nokia decided against Android",
+  "continue": "Continue",
+  "noneToContinue": "No projects to continue yet.",
+  "inProgress": "In progress",
+  "noneInProgress": "No projects being researched or built.",
+  "monthSpend": "Spent this month <b>{amount}</b>"
+}

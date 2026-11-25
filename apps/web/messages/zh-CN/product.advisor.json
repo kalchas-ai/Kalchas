@@ -1,0 +1,9 @@
+{
+  "connectionLost": "连接断了；回答可能稍后出现在对话里",
+  "sourcesChecked_other": "查了 {count} 处资料",
+  "lookingUp": "在查…",
+  "writingAnswer": "在整理回答…",
+  "thinking": "在想…",
+  "askFailed": "没有问成：{error}",
+  "dismiss": "知道了"
+}

@@ -1,0 +1,11 @@
+{
+  "seconds": "{s} Sek.",
+  "minSec": "{m} Min. {s} Sek.",
+  "minutes": "{m} Min.",
+  "unusable": "Die Rückmeldung war nicht verwendbar",
+  "tooLong": "Es lief zu lange und wurde abgebrochen",
+  "badFormat": "Die Rückmeldung hatte das falsche Format",
+  "noResponse": "Der Anbieter hat zu lange nicht geantwortet",
+  "repeated": "Die Fragen wiederholten sich",
+  "typical": "Meist {from}–{to}"
+}

@@ -1,0 +1,15 @@
+{
+  "world": "세계",
+  "time": "시간",
+  "you": "나",
+  "otherSources_other": "다른 출처 {count}개",
+  "stageWho": "인물과 기관을 정하는 중",
+  "stageFact": "조사 결과를 사실로 정리하는 중",
+  "stagePersona": "제비를 뽑아 인물을 하나씩 쓰는 중",
+  "stageTie": "관계의 그물을 잇는 중",
+  "stageCrowd": "집단을 구성하는 중",
+  "stageRisk": "굴려야 할 위험을 찾는 중",
+  "stageMile": "주된 흐름과 이정표를 정하는 중",
+  "stageOpen": "세계가 움직이기 시작해요",
+  "buildTitle": "세계 구축 중"
+}

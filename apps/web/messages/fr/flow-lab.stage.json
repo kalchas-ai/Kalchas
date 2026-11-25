@@ -1,0 +1,23 @@
+{
+  "sourceRead": "Lues {read} / {total}",
+  "factsKnown_one": "{count} fait connu",
+  "factsKnown_other": "{count} faits connus",
+  "fromSources_one": "issu de {count} source",
+  "fromSources_other": "issus de {count} sources",
+  "people_one": "{n} personne",
+  "people_other": "{n} personnes",
+  "thinking": "Réflexion{dots}",
+  "facts_one": "{count} fait",
+  "facts_other": "{count} faits",
+  "move": "Action",
+  "institution": "Institution",
+  "person": "Personne",
+  "rollOdds": "Un tirage · {p} % · {picked}",
+  "roll": "Un tirage · {picked}",
+  "profile": "Profil",
+  "worldStarts": "Le monde se met en mouvement",
+  "startsFrom": "{start} · la partie commence à ce moment",
+  "startsHere": "La partie commence à ce moment",
+  "draw": "Tirage au sort · {what}",
+  "realDistribution": "Selon la répartition réelle : {text}"
+}

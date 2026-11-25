@@ -1,0 +1,12 @@
+{
+  "odds": "Odds {pct}%",
+  "moreInStep_one": "{count} more in this step",
+  "moreInStep_other": "{count} more in this step",
+  "sinceStart": "At the start {start} → now {now}",
+  "reaches": "Reaches <b>{names}</b>",
+  "sep": ", ",
+  "reachesOnlyYou": "Reaches only you",
+  "doThis": "Do this →",
+  "writeOwn": "Or write your own move…",
+  "addFact": "You can also add a fact about how things stand, such as “the repo has reached 50K stars”"
+}

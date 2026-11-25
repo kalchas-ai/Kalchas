@@ -1,0 +1,17 @@
+{
+  "mark.move": "You",
+  "mark.reaction": "",
+  "mark.chance": "Odds",
+  "mark.world": "World",
+  "mark.next": "Next",
+  "mark.lookup": "Verify",
+  "seeNextStep": "See the next step",
+  "checkingReality": "Checking how things stand in the real world",
+  "sidesInStep": "Sides in this step · {count}",
+  "seePerson": "See this person",
+  "you": "You",
+  "drawn": "{trait}: {value}",
+  "facts_one": "{count} fact",
+  "facts_other": "{count} facts",
+  "peopleAndInstitutions": "People and institutions · {count}"
+}

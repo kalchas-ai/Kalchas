@@ -1,0 +1,21 @@
+{
+  "kind.self": "나",
+  "kind.person": "인물",
+  "kind.org": "조직",
+  "kind.inst": "기관",
+  "kind.group": "집단",
+  "kind.other": "기타",
+  "seatLine": "나 · 내 자리에서 본 세계",
+  "crowdLine_other": "{kind} · {n}명",
+  "forceLine": "외부 요인",
+  "factsLine_other": "{kind} · 알려진 사실 {count}개",
+  "close": "닫기",
+  "hide": "숨기기",
+  "showAll": "모두 보기",
+  "profile": "프로필",
+  "known": "알려진 것",
+  "inThisPlay": "이 플레이에서",
+  "fog_other": "아직 내가 모르는 것을 {count}가지 알고 있어요",
+  "ties": "관계",
+  "you": "나"
+}

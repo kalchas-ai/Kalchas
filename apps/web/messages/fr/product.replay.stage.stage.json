@@ -1,0 +1,12 @@
+{
+  "odds": "Chances {pct} %",
+  "moreInStep_one": "{count} de plus à cette étape",
+  "moreInStep_other": "{count} de plus à cette étape",
+  "sinceStart": "Au début {start} → maintenant {now}",
+  "reaches": "Concerne <b>{names}</b>",
+  "sep": ", ",
+  "reachesOnlyYou": "Ne concerne que vous",
+  "doThis": "Faire ceci →",
+  "writeOwn": "Ou écrivez votre propre action…",
+  "addFact": "Vous pouvez aussi ajouter un fait sur l’état des choses, comme « le dépôt a atteint 50 000 étoiles »"
+}

@@ -1,0 +1,10 @@
+{
+  "connectionLost": "A conexão caiu; a resposta ainda pode aparecer na conversa mais tarde",
+  "sourcesChecked_one": "{count} fonte consultada",
+  "sourcesChecked_other": "{count} fontes consultadas",
+  "lookingUp": "Pesquisando…",
+  "writingAnswer": "Escrevendo a resposta…",
+  "thinking": "Pensando…",
+  "askFailed": "Não foi possível perguntar: {error}",
+  "dismiss": "OK"
+}

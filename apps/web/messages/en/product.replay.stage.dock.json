@@ -1,0 +1,14 @@
+{
+  "draftAnswer": "(Draft) In the product, the adviser answers only with what you know at this moment; when you ask what someone else will think, it says it is a guess. Asking does not move time, and the world does not change because of it.",
+  "title": "Ask the adviser",
+  "note": "Time does not move · inside the play it knows only what you know; outside, it can look things up online",
+  "busy": "The adviser is looking it up…",
+  "placeholder": "Ask the adviser: who will react how, where the risk is in this step…",
+  "send": "Send",
+  "sendHint": "Send (Return)",
+  "empty": "Ask anything you want to be clear on before you decide. Asking is only asking: the world does not move because of it. To act, choose a way in the next step above or write your own move.",
+  "redirected": "What you wrote as a move was a question, so it is answered here and time did not move",
+  "useCheck": "{title} · add to my move",
+  "view": "<b>{who}</b> (a guess): {likely}",
+  "askFailed": "Could not ask: {error}"
+}

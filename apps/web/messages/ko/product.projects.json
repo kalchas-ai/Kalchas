@@ -1,0 +1,13 @@
+{
+  "building": "구축 중 · {stage}",
+  "preparing": "준비 중",
+  "failed": "구축 중단 · 멈춘 곳에서 이어갈 수 있음",
+  "stalled": "구축 멈춤 · 멈춘 곳에서 이어갈 수 있음",
+  "paused": "비용 한도 도달 · 한도를 올려 이어가기",
+  "clarifying": "몇 가지 질문의 답을 기다리는 중",
+  "ready": "준비됨 · 아직 플레이 없음",
+  "ended": "종료 · {ending}",
+  "playing": "플레이 중 · {date} · {step}단계",
+  "today": "오늘",
+  "momentSeat": "{date} · {seat}의 자리에서"
+}

@@ -1,0 +1,11 @@
+{
+  "sep": "；",
+  "askFailed": "無法提問",
+  "people_other": "人物",
+  "facts_other": "事實",
+  "ties_other": "關係",
+  "sources_other": "來源",
+  "questionsFailed": "無法寫出問題",
+  "stalled": "這一步已停了很久，執行它的程序可能被中斷了。",
+  "rewrite": "重新寫問題 →"
+}

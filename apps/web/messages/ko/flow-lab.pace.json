@@ -1,0 +1,7 @@
+{
+  "minutes_other": "{count}분",
+  "hours_other": "{count}시간",
+  "steps_other": "{count}단계",
+  "fine": "세밀",
+  "coarse": "성김"
+}

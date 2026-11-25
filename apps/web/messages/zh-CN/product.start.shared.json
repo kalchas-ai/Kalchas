@@ -1,0 +1,19 @@
+{
+  "today.q": "你将要做什么决定？",
+  "today.hint": "说说你想做什么，以及为什么想做…",
+  "today.example1": "辞职去读一年制的金融硕士",
+  "today.example2": "在杭州开一家精品咖啡店",
+  "today.example3": "带着 demo 去硅谷融资",
+  "today.example4": "明年在成都买第一套房",
+  "past.q": "回到哪一个时刻？",
+  "past.hint": "一个真实发生过的时刻，和你想站在谁的位置…",
+  "past.example1": "2015 年，站在 Theranos 创始人的位置",
+  "past.example2": "1985 年被赶出苹果的乔布斯",
+  "past.example3": "2008 年雷曼倒下前的一周",
+  "past.example4": "诺基亚决定不用安卓的那一年",
+  "continue": "继续",
+  "noneToContinue": "还没有可以继续的项目。",
+  "inProgress": "进行中",
+  "noneInProgress": "没有正在研究或构建的项目。",
+  "monthSpend": "本月花费 <b>{amount}</b>"
+}

@@ -1,0 +1,13 @@
+{
+  "building": "建構中 · {stage}",
+  "preparing": "準備中",
+  "failed": "建構被中斷 · 可從停下的地方繼續",
+  "stalled": "建構已停止 · 可從停下的地方繼續",
+  "paused": "已達費用上限 · 調高上限即可繼續",
+  "clarifying": "等你回答幾個問題",
+  "ready": "已就緒 · 尚未推演",
+  "ended": "已結束 · {ending}",
+  "playing": "推演中 · {date} · 第 {step} 步",
+  "today": "今天",
+  "momentSeat": "{date} · 站在{seat}的位置"
+}

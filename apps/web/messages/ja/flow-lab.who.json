@@ -1,0 +1,21 @@
+{
+  "kind.self": "あなた",
+  "kind.person": "人物",
+  "kind.org": "組織",
+  "kind.inst": "機関",
+  "kind.group": "集団",
+  "kind.other": "その他",
+  "seatLine": "あなた · あなたの立場から見た世界",
+  "crowdLine_other": "{kind} · {n}人",
+  "forceLine": "外部の力",
+  "factsLine_other": "{kind} · 把握済みの事実 {count}",
+  "close": "閉じる",
+  "hide": "隠す",
+  "showAll": "すべて表示",
+  "profile": "プロフィール",
+  "known": "わかっていること",
+  "inThisPlay": "このプレイでは",
+  "fog_other": "あなたがまだ知らないことを{count}件知っています",
+  "ties": "つながり",
+  "you": "あなた"
+}

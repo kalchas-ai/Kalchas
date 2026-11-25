@@ -1,0 +1,19 @@
+{
+  "sourceRead": "読了 {read} / {total}",
+  "factsKnown_other": "把握した事実 {count}",
+  "fromSources_other": "{count}件の出典から",
+  "people_other": "{n}人",
+  "thinking": "考え中{dots}",
+  "facts_other": "事実 {count}",
+  "move": "一手",
+  "institution": "機関",
+  "person": "人物",
+  "rollOdds": "1回の抽選 · {p}% · {picked}",
+  "roll": "1回の抽選 · {picked}",
+  "profile": "プロフィール",
+  "worldStarts": "世界が動き出します",
+  "startsFrom": "{start} · プレイはこの時点から始まります",
+  "startsHere": "プレイはこの時点から始まります",
+  "draw": "くじ引き · {what}",
+  "realDistribution": "実際の分布に基づく: {text}"
+}

@@ -1,0 +1,10 @@
+{
+  "minutes_one": "{count} min",
+  "minutes_other": "{count} min",
+  "hours_one": "{count} heure",
+  "hours_other": "{count} heures",
+  "steps_one": "{count} étape",
+  "steps_other": "{count} étapes",
+  "fine": "Fin",
+  "coarse": "Large"
+}

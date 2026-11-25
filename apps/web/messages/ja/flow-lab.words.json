@@ -1,0 +1,20 @@
+{
+  "example": "仕事を辞めて、1年制の金融の修士課程に進む",
+  "start": "開始",
+  "tagline": "未来はひとつではない",
+  "pressEnter": "Enterキーで開始",
+  "whatMatter": "何について考えていますか。",
+  "recent": "最近",
+  "all": "すべて{count}件",
+  "waiting_other": "あなたを待っているもの {count}",
+  "skip": "スキップ",
+  "toAsk": "質問 · {count}",
+  "sources_other": "<n>{count}</n>件の出典",
+  "read": "<n>{count}</n>件読了",
+  "sourcesHead": "出典 · {count}",
+  "findings": "調査結果",
+  "world": "世界",
+  "end": "終了",
+  "when": "{date} · 決断 {step}",
+  "youAre": "あなたは{name}です"
+}

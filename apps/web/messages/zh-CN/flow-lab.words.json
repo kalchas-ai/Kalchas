@@ -1,0 +1,20 @@
+{
+  "example": "辞职去读一年制的金融硕士",
+  "start": "开始",
+  "tagline": "未来不止一个",
+  "pressEnter": "回车开始",
+  "whatMatter": "你在想哪件事？",
+  "recent": "最近",
+  "all": "全部 {count}",
+  "waiting_other": "{count} 件等你",
+  "skip": "跳过",
+  "toAsk": "要问清的事 · {count}",
+  "sources_other": "<n>{count}</n> 来源",
+  "read": "<n>{count}</n> 已读",
+  "sourcesHead": "来源 · {count}",
+  "findings": "情报",
+  "world": "世界",
+  "end": "结束",
+  "when": "{date} · 第 {step} 次",
+  "youAre": "你是 {name}"
+}

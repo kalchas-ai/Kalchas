@@ -1,0 +1,20 @@
+{
+  "example": "회사를 그만두고 1년 과정의 금융 석사 가기",
+  "start": "시작",
+  "tagline": "미래는 하나가 아니에요",
+  "pressEnter": "Enter를 눌러 시작",
+  "whatMatter": "어떤 고민을 하고 있나요?",
+  "recent": "최근",
+  "all": "전체 {count}",
+  "waiting_other": "기다리는 중 {count}",
+  "skip": "건너뛰기",
+  "toAsk": "질문 · {count}",
+  "sources_other": "출처 <n>{count}</n>개",
+  "read": "<n>{count}</n>개 읽음",
+  "sourcesHead": "출처 · {count}",
+  "findings": "조사 결과",
+  "world": "세계",
+  "end": "종료",
+  "when": "{date} · 결정 {step}",
+  "youAre": "당신은 {name}"
+}

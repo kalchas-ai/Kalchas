@@ -1,0 +1,13 @@
+{
+  "building": "構築中 · {stage}",
+  "preparing": "準備中",
+  "failed": "構築が中断 · 止まったところから続けられます",
+  "stalled": "構築が停止 · 止まったところから続けられます",
+  "paused": "コスト上限に達しました · 上限を上げると続けられます",
+  "clarifying": "いくつかの質問への回答待ち",
+  "ready": "準備完了 · プレイはまだありません",
+  "ended": "終了 · {ending}",
+  "playing": "プレイ中 · {date} · ステップ{step}",
+  "today": "今日",
+  "momentSeat": "{date} · {seat}の立場で"
+}

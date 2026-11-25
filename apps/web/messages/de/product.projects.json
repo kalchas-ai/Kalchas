@@ -1,0 +1,13 @@
+{
+  "building": "Wird aufgebaut · {stage}",
+  "preparing": "Bereitet vor",
+  "failed": "Aufbau unterbrochen · kann dort weitergehen, wo er aufgehört hat",
+  "stalled": "Aufbau angehalten · kann dort weitergehen, wo er aufgehört hat",
+  "paused": "Kostenlimit erreicht · erhöhe das Limit, um fortzufahren",
+  "clarifying": "Wartet auf deine Antworten zu ein paar Fragen",
+  "ready": "Bereit · noch kein Durchlauf",
+  "ended": "Beendet · {ending}",
+  "playing": "Läuft · {date} · Schritt {step}",
+  "today": "Heute",
+  "momentSeat": "{date} · an der Stelle von {seat}"
+}

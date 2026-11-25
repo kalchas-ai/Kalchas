@@ -1,0 +1,23 @@
+{
+  "sourceRead": "Read {read} / {total}",
+  "factsKnown_one": "{count} fact known",
+  "factsKnown_other": "{count} facts known",
+  "fromSources_one": "from {count} source",
+  "fromSources_other": "from {count} sources",
+  "people_one": "{n} person",
+  "people_other": "{n} people",
+  "thinking": "Thinking{dots}",
+  "facts_one": "{count} fact",
+  "facts_other": "{count} facts",
+  "move": "Move",
+  "institution": "Institution",
+  "person": "Person",
+  "rollOdds": "One roll · {p}% · {picked}",
+  "roll": "One roll · {picked}",
+  "profile": "Profile",
+  "worldStarts": "The world starts moving",
+  "startsFrom": "{start} · the play starts from this moment",
+  "startsHere": "The play starts from this moment",
+  "draw": "Drawing lots · {what}",
+  "realDistribution": "By the real distribution: {text}"
+}

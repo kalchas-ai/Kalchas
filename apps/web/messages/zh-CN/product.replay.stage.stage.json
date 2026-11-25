@@ -1,0 +1,11 @@
+{
+  "odds": "可能性 {pct}%",
+  "moreInStep_other": "这一步还有 {count} 件",
+  "sinceStart": "开局 {start} → 现在 {now}",
+  "reaches": "牵动 <b>{names}</b>",
+  "sep": "、",
+  "reachesOnlyYou": "只牵动你自己",
+  "doThis": "就这么做 →",
+  "writeOwn": "或者，写你自己的做法…",
+  "addFact": "也可以补充一条现状，例如“仓库已到 5 万 star”"
+}

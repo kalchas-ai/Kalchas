@@ -1,0 +1,7 @@
+{
+  "minutes_other": "{count}分",
+  "hours_other": "{count}時間",
+  "steps_other": "{count}ステップ",
+  "fine": "細かく",
+  "coarse": "粗く"
+}

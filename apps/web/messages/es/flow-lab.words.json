@@ -1,0 +1,22 @@
+{
+  "example": "Dejar mi trabajo para hacer un máster de un año en finanzas",
+  "start": "Empezar",
+  "tagline": "Más de un futuro",
+  "pressEnter": "Pulsa Intro para empezar",
+  "whatMatter": "¿En qué estás pensando?",
+  "recent": "Recientes",
+  "all": "Todos {count}",
+  "waiting_one": "{count} te espera",
+  "waiting_other": "{count} te esperan",
+  "skip": "Omitir",
+  "toAsk": "Por preguntar · {count}",
+  "sources_one": "<n>{count}</n> fuente",
+  "sources_other": "<n>{count}</n> fuentes",
+  "read": "<n>{count}</n> leídas",
+  "sourcesHead": "Fuentes · {count}",
+  "findings": "Hallazgos",
+  "world": "Mundo",
+  "end": "Fin",
+  "when": "{date} · Decisión {step}",
+  "youAre": "Eres {name}"
+}

@@ -1,0 +1,13 @@
+{
+  "noSuchWorld": "沒有這個世界",
+  "related": "相關",
+  "lookPersona": "人的真實分布",
+  "lookRisk": "風險的真實機率",
+  "lookSetup": "設定的真實分布",
+  "lookNewcomer": "可能登場的人",
+  "lookAny": "現實中的資料",
+  "low": "低",
+  "middle": "中",
+  "high": "高",
+  "byPopulationNorm": "依人群常模"
+}

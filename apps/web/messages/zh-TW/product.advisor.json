@@ -1,0 +1,9 @@
+{
+  "connectionLost": "連線中斷；回答稍後可能仍會出現在對話中",
+  "sourcesChecked_other": "已查證 {count} 個來源",
+  "lookingUp": "查資料中…",
+  "writingAnswer": "正在撰寫回答…",
+  "thinking": "思考中…",
+  "askFailed": "無法提問：{error}",
+  "dismiss": "知道了"
+}

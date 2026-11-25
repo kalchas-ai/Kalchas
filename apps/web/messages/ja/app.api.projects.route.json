@@ -1,0 +1,4 @@
+{
+  "writeMatter": "考えていることを書いてください",
+  "noKey": "まず OpenRouter のキーが必要です。openrouter.ai/keys で取得し、Kalchas フォルダの .env.local に貼り付けてから、もう一度 Enter を押してください。"
+}

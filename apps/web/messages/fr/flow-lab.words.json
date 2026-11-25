@@ -1,0 +1,22 @@
+{
+  "example": "Quitter mon emploi pour un master de finance d’un an",
+  "start": "Commencer",
+  "tagline": "Plus d’un avenir",
+  "pressEnter": "Appuyez sur Entrée pour commencer",
+  "whatMatter": "À quoi réfléchissez-vous ?",
+  "recent": "Récents",
+  "all": "Tous les {count}",
+  "waiting_one": "{count} vous attend",
+  "waiting_other": "{count} vous attendent",
+  "skip": "Passer",
+  "toAsk": "À demander · {count}",
+  "sources_one": "<n>{count}</n> source",
+  "sources_other": "<n>{count}</n> sources",
+  "read": "<n>{count}</n> lues",
+  "sourcesHead": "Sources · {count}",
+  "findings": "Résultats",
+  "world": "Monde",
+  "end": "Fin",
+  "when": "{date} · Décision {step}",
+  "youAre": "Vous êtes {name}"
+}

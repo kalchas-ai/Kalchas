@@ -1,0 +1,225 @@
+@import "tailwindcss";
+
+@theme {
+  --color-void: #04050a;
+  --color-base: #0a0b0e;
+  --color-panel: #090b10;
+  --color-raised: #151820;
+  --color-line: #1d2129;
+  --color-line-strong: #2a2f39;
+  --color-silver: #e7e9ee;
+  --color-mist: #a3a9b5;
+  --color-dim: #6b717d;
+  --color-faint: #444a55;
+  --color-ice: #8db4e8;
+  --color-amber: #d9a441;
+  --color-blood: #b48cff; /* endings: violet, never red */
+  /* Wine: used only by the first homepage version (/design/home), kept as it was. */
+  --color-wine: #b5433b;
+
+  --font-sans: var(--font-inter), var(--font-cjk), "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
+  --font-serif: var(--font-instrument), "Times New Roman", serif;
+  --font-mono: var(--font-jetbrains), "SF Mono", ui-monospace, monospace;
+
+  --radius-card: 3px;
+}
+
+html,
+body {
+  background: var(--color-void);
+  color: var(--color-silver);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  /* a word or number too long for its box breaks onto the next line instead of running into its neighbour */
+  overflow-wrap: break-word;
+}
+
+/* Faint grain so large dark planes do not look flat. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  z-index: 0;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-ice) 35%, transparent);
+}
+
+.card {
+  background: var(--color-panel);
+  border: 1px solid rgb(255 255 255 / 0.06);
+  border-radius: var(--radius-card);
+}
+
+.label {
+  font-family: var(--font-mono), var(--font-cjk), monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.16em;
+  color: var(--color-dim);
+}
+
+.scroll-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line-strong) transparent;
+}
+
+
+/* ---------------------------------------------------------------- kit tokens */
+@theme {
+  /* Chart series, in fixed order (validated for colour-blind separation on the panel surface). */
+  --color-s1: #3987e5;
+  --color-s2: #d95926;
+  --color-s3: #199e70;
+  --color-s4: #c98500;
+  --color-s5: #d55181;
+  --color-s6: #008300;
+  --color-s7: #9085e9;
+  --color-s8: #e66767;
+  /* Status: reserved, always shown with an icon and a label. */
+  --color-good: #0ca30c;
+  --color-warning: #fab219;
+  --color-serious: #f0a04b;
+  --color-critical: #b48cff;
+  --color-insider: #9085e9;
+}
+
+/* Blocks are instrument plates: a hairline, and four short corner marks. */
+.block-hero,
+.block-normal {
+  position: relative;
+  background: linear-gradient(180deg, rgb(255 255 255 / 0.022), rgb(255 255 255 / 0.008));
+  border: 1px solid rgb(255 255 255 / 0.055);
+  border-radius: 2px;
+  --corner: rgb(231 233 238 / 0.42);
+}
+.block-hero {
+  --corner: rgb(231 233 238 / 0.85);
+  background:
+    radial-gradient(90% 70% at 0% 0%, color-mix(in srgb, var(--color-ice) 6%, transparent), transparent 60%),
+    linear-gradient(180deg, rgb(255 255 255 / 0.03), rgb(255 255 255 / 0.01));
+}
+.block-hero::before,
+.block-normal::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  pointer-events: none;
+  background:
+    linear-gradient(var(--corner), var(--corner)) top left / 9px 1px no-repeat,
+    linear-gradient(var(--corner), var(--corner)) top left / 1px 9px no-repeat,
+    linear-gradient(var(--corner), var(--corner)) top right / 9px 1px no-repeat,
+    linear-gradient(var(--corner), var(--corner)) top right / 1px 9px no-repeat,
+    linear-gradient(var(--corner), var(--corner)) bottom left / 9px 1px no-repeat,
+    linear-gradient(var(--corner), var(--corner)) bottom left / 1px 9px no-repeat,
+    linear-gradient(var(--corner), var(--corner)) bottom right / 9px 1px no-repeat,
+    linear-gradient(var(--corner), var(--corner)) bottom right / 1px 9px no-repeat;
+}
+.block-quiet {
+  border-top: 1px solid rgb(255 255 255 / 0.07);
+}
+
+.num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+.rise {
+  animation: rise 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+  .rise { animation: none; }
+}
+
+/* Smooth scrolling (Lenis) */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+
+/* ---------------------------------------------------------------- story (homepage) */
+/* In the components layer, so Tailwind utilities (absolute, etc.) still win. */
+@layer components {
+.story {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Familjen Grotesk", "MiSans", var(--font-cjk), system-ui, sans-serif;
+}
+.k-mute { color: var(--mute); }
+.k-faint { color: var(--faint); }
+.k-line { color: var(--line); }
+.k-warm { color: var(--warm); }
+.k-cool { color: var(--cool); }
+.k-meta {
+  font-family: "Martian Mono", "MiSans", monospace;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0.16em;
+  color: var(--faint);
+}
+.k-num { font-family: "Familjen Grotesk", "MiSans", sans-serif; font-variant-numeric: tabular-nums; letter-spacing: -0.045em; }
+.story[data-v="dither"] .k-num { font-family: "Martian Mono", monospace; font-weight: 300; letter-spacing: -0.06em; }
+
+/* Panels: three treatments, one per version */
+.k-panel { position: relative; }
+.story[data-v="dither"] .k-panel {
+  border: 1px solid var(--rule);
+  background: color-mix(in srgb, var(--bg) 80%, transparent);
+  --c: color-mix(in srgb, var(--ink) 55%, transparent);
+}
+.story[data-v="dither"] .k-panel::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  pointer-events: none;
+  background:
+    linear-gradient(var(--c), var(--c)) top left / 8px 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) top left / 1px 8px no-repeat,
+    linear-gradient(var(--c), var(--c)) top right / 8px 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) top right / 1px 8px no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom left / 8px 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom left / 1px 8px no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom right / 8px 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom right / 1px 8px no-repeat;
+}
+.story[data-v="fluid"] .k-panel {
+  border: 1px solid rgb(255 255 255 / 0.12);
+  border-radius: 18px;
+  background: rgb(255 255 255 / 0.06);
+  backdrop-filter: blur(22px) saturate(1.2);
+  box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.12), 0 30px 80px -40px rgb(0 0 0 / 0.7);
+}
+.story[data-v="fusion"] .k-panel {
+  border: 1px solid color-mix(in srgb, var(--ink) 10%, transparent);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--ink) 4%, transparent);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 30px 80px -40px rgb(0 0 0 / 0.8);
+}
+
+/* The paper section (hindsight) inverts the palette */
+.k-paper {
+  --ink: #16181d;
+  --mute: #4a4d55;
+  --faint: #8a8c92;
+  --rule: rgb(22 24 29 / 0.14);
+  background: #ece9e2;
+  color: #16181d;
+}
+
+}
+

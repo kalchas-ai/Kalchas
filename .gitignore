@@ -1,0 +1,12 @@
+node_modules/
+.env.local
+.env*.local
+dist/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+*.log
+.DS_Store
+
+# what the app keeps on your machine: your projects, your settings
+data/

@@ -1,0 +1,10 @@
+{
+  "connectionLost": "Die Verbindung ist abgebrochen; die Antwort erscheint vielleicht später im Gespräch",
+  "sourcesChecked_one": "{count} Quelle geprüft",
+  "sourcesChecked_other": "{count} Quellen geprüft",
+  "lookingUp": "Wird nachgeschlagen…",
+  "writingAnswer": "Die Antwort wird geschrieben…",
+  "thinking": "Denkt nach…",
+  "askFailed": "Frage fehlgeschlagen: {error}",
+  "dismiss": "OK"
+}

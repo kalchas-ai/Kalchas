@@ -1,0 +1,13 @@
+{
+  "building": "Construyendo · {stage}",
+  "preparing": "Preparando",
+  "failed": "Construcción interrumpida · puede continuar desde donde se detuvo",
+  "stalled": "Construcción detenida · puede continuar desde donde se detuvo",
+  "paused": "Límite de costo alcanzado · sube el límite para continuar",
+  "clarifying": "Esperando tus respuestas a unas preguntas",
+  "ready": "Listo · aún sin partida",
+  "ended": "Terminada · {ending}",
+  "playing": "Jugando · {date} · paso {step}",
+  "today": "Hoy",
+  "momentSeat": "{date} · en el lugar de {seat}"
+}

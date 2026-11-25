@@ -1,0 +1,11 @@
+{
+  "seconds": "{s} 秒",
+  "minSec": "{m} 分 {s} 秒",
+  "minutes": "{m} 分钟",
+  "unusable": "交回的结果不能用",
+  "tooLong": "写得太长被截断了",
+  "badFormat": "交回的格式不对",
+  "noResponse": "服务商太久没有回应",
+  "repeated": "问题有重复",
+  "typical": "通常 {from}–{to}"
+}

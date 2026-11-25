@@ -1,0 +1,16 @@
+{
+  "mark.move": "你",
+  "mark.reaction": "",
+  "mark.chance": "機率",
+  "mark.world": "世界",
+  "mark.next": "下一步",
+  "mark.lookup": "查證",
+  "seeNextStep": "查看下一步",
+  "checkingReality": "核對現實中的情況",
+  "sidesInStep": "這一步的各方 · {count}",
+  "seePerson": "查看這個人",
+  "you": "你",
+  "drawn": "{trait}：{value}",
+  "facts_other": "{count} 項事實",
+  "peopleAndInstitutions": "人物與機構 · {count}"
+}

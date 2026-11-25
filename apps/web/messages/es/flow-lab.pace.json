@@ -1,0 +1,10 @@
+{
+  "minutes_one": "{count} min",
+  "minutes_other": "{count} min",
+  "hours_one": "{count} hora",
+  "hours_other": "{count} horas",
+  "steps_one": "{count} paso",
+  "steps_other": "{count} pasos",
+  "fine": "Fino",
+  "coarse": "Grueso"
+}

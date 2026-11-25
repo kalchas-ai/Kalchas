@@ -1,0 +1,11 @@
+{
+  "sep": "、",
+  "askFailed": "質問できませんでした",
+  "people_other": "人",
+  "facts_other": "事実",
+  "ties_other": "つながり",
+  "sources_other": "出典",
+  "questionsFailed": "質問を作成できませんでした",
+  "stalled": "このステップは長い間止まっています。実行していたプロセスが中断された可能性があります。",
+  "rewrite": "質問を書き直す →"
+}

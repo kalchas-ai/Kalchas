@@ -1,0 +1,16 @@
+{
+  "world": "Mundo",
+  "time": "Tempo",
+  "you": "Você",
+  "otherSources_one": "{count} outra fonte",
+  "otherSources_other": "{count} outras fontes",
+  "stageWho": "Definindo as pessoas e instituições",
+  "stageFact": "Registrando os achados como fatos",
+  "stagePersona": "Sorteando e descrevendo cada pessoa",
+  "stageTie": "Conectando a teia de vínculos",
+  "stageCrowd": "Montando os grupos",
+  "stageRisk": "Levantando os riscos que precisam ser sorteados",
+  "stageMile": "Definindo a linha principal e os marcos",
+  "stageOpen": "O mundo começa a se mover",
+  "buildTitle": "Construindo o mundo"
+}

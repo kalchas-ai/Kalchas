@@ -1,0 +1,19 @@
+{
+  "sourceRead": "已讀 {read} / {total}",
+  "factsKnown_other": "已知 {count} 項事實",
+  "fromSources_other": "來自 {count} 個來源",
+  "people_other": "{n} 人",
+  "thinking": "思考中{dots}",
+  "facts_other": "事實 {count}",
+  "move": "行動",
+  "institution": "機構",
+  "person": "人物",
+  "rollOdds": "擲一次 · {p}% · {picked}",
+  "roll": "擲一次 · {picked}",
+  "profile": "人設",
+  "worldStarts": "世界開始運轉",
+  "startsFrom": "{start} · 推演從這一刻開始",
+  "startsHere": "推演從這一刻開始",
+  "draw": "抽籤 · {what}",
+  "realDistribution": "依真實分布：{text}"
+}

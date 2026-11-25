@@ -1,0 +1,16 @@
+{
+  "name": "kalchas",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.12.4",
+  "scripts": {
+    "dev": "npm --prefix packages/core run build && npm --prefix apps/web run dev",
+    "dev:lan": "npm --prefix packages/core run build && npm --prefix apps/web run dev:lan",
+    "build": "npm --prefix packages/core run build && npm --prefix apps/web run build",
+    "start": "npm run build && npm --prefix apps/web run start",
+    "typecheck": "pnpm -r typecheck",
+    "db:generate": "pnpm --filter @kalchas/core exec drizzle-kit generate",
+    "build:core": "pnpm --filter @kalchas/core build",
+    "web": "pnpm build:core && pnpm --filter @kalchas/web dev"
+  }
+}

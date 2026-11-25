@@ -1,0 +1,11 @@
+{
+  "odds": "확률 {pct}%",
+  "moreInStep_other": "이 단계에 {count}개 더",
+  "sinceStart": "시작 {start} → 현재 {now}",
+  "reaches": "<b>{names}</b>에게 닿아요",
+  "sep": ", ",
+  "reachesOnlyYou": "나에게만 닿아요",
+  "doThis": "이대로 하기 →",
+  "writeOwn": "또는 내 행동을 직접 쓰기…",
+  "addFact": "“저장소가 별 5만 개에 이르렀다”처럼 현재 상황에 대한 사실을 더할 수도 있어요"
+}

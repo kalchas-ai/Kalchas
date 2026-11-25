@@ -1,0 +1,11 @@
+{
+  "odds": "機率 {pct}%",
+  "moreInStep_other": "這一步還有 {count} 項",
+  "sinceStart": "開局 {start} → 現在 {now}",
+  "reaches": "會牽動 <b>{names}</b>",
+  "sep": "、",
+  "reachesOnlyYou": "只牽動你自己",
+  "doThis": "就這麼做 →",
+  "writeOwn": "或者，寫下你自己的做法…",
+  "addFact": "你也可以補充目前的情況，例如「這個專案已達 50K 顆星」"
+}

@@ -1,0 +1,11 @@
+{
+  "seconds": "{s} s",
+  "minSec": "{m} min {s} s",
+  "minutes": "{m} min",
+  "unusable": "Lo que llegó no se pudo usar",
+  "tooLong": "Tardó demasiado y se cortó",
+  "badFormat": "Lo que llegó tenía un formato incorrecto",
+  "noResponse": "El proveedor tardó demasiado en responder",
+  "repeated": "Las preguntas se repetían entre sí",
+  "typical": "Suele ser {from}–{to}"
+}

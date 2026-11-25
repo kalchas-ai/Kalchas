@@ -1,0 +1,14 @@
+{
+  "draftAnswer": "(Borrador) En el producto, el asesor responde solo con lo que sabes en este momento; cuando preguntas qué pensará otra persona, dice que es una suposición. Preguntar no mueve el tiempo y el mundo no cambia por ello.",
+  "title": "Pregunta al asesor",
+  "note": "El tiempo no avanza · dentro de la partida solo sabe lo que tú sabes; fuera, puede buscar en internet",
+  "busy": "El asesor lo está consultando…",
+  "placeholder": "Pregunta al asesor: quién reaccionará cómo, dónde está el riesgo de este paso…",
+  "send": "Enviar",
+  "sendHint": "Enviar (Intro)",
+  "empty": "Pregunta lo que quieras aclarar antes de decidir. Preguntar es solo preguntar: el mundo no se mueve por ello. Para actuar, elige un camino en el próximo paso de arriba o escribe tu propia jugada.",
+  "redirected": "Lo que escribiste como jugada era una pregunta, así que se responde aquí y el tiempo no avanzó",
+  "useCheck": "{title} · añadir a mi jugada",
+  "view": "<b>{who}</b> (una suposición): {likely}",
+  "askFailed": "No se pudo preguntar: {error}"
+}

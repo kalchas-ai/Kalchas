@@ -1,0 +1,19 @@
+{
+  "today.q": "你即將決定什麼？",
+  "today.hint": "說說你想做什麼，以及為什麼…",
+  "today.example1": "辭職去讀一年制的金融碩士",
+  "today.example2": "在杭州開一家精品咖啡店",
+  "today.example3": "帶著展示去矽谷募資",
+  "today.example4": "明年在成都買下第一間房",
+  "past.q": "你想回到哪一個時刻？",
+  "past.hint": "一個真實發生過的時刻，以及你想站在誰的位置…",
+  "past.example1": "2015 年，站在 Theranos 創辦人的位置",
+  "past.example2": "1985 年被逐出 Apple 的賈伯斯",
+  "past.example3": "2008 年雷曼倒下前的一週",
+  "past.example4": "Nokia 決定不採用 Android 的那一年",
+  "continue": "繼續",
+  "noneToContinue": "還沒有可以繼續的專案。",
+  "inProgress": "進行中",
+  "noneInProgress": "沒有正在研究或建構的專案。",
+  "monthSpend": "本月已花費 <b>{amount}</b>"
+}

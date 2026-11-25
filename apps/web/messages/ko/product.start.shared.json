@@ -1,0 +1,19 @@
+{
+  "today.q": "무엇을 결정하려고 하나요?",
+  "today.hint": "하고 싶은 일과 그 이유를 적어 보세요…",
+  "today.example1": "회사를 그만두고 1년 과정의 금융 석사 가기",
+  "today.example2": "항저우에 스페셜티 커피숍 열기",
+  "today.example3": "데모를 들고 실리콘밸리에 가서 투자 유치하기",
+  "today.example4": "내년에 청두에서 첫 집 사기",
+  "past.q": "어느 순간으로 돌아가고 싶나요?",
+  "past.hint": "실제로 있었던 순간과, 그 자리에 서 보고 싶은 사람을 적어 보세요…",
+  "past.example1": "2015년, 테라노스 창업자의 자리에서",
+  "past.example2": "1985년, 애플에서 쫓겨난 스티브 잡스",
+  "past.example3": "2008년 리먼이 무너지기 일주일 전",
+  "past.example4": "노키아가 안드로이드를 택하지 않기로 한 해",
+  "continue": "이어가기",
+  "noneToContinue": "이어갈 프로젝트가 아직 없어요.",
+  "inProgress": "진행 중",
+  "noneInProgress": "조사하거나 구축 중인 프로젝트가 없어요.",
+  "monthSpend": "이번 달 사용 <b>{amount}</b>"
+}

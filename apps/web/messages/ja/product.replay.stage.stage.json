@@ -1,0 +1,11 @@
+{
+  "odds": "確率 {pct}%",
+  "moreInStep_other": "このステップにほか{count}件",
+  "sinceStart": "開始時 {start} → 現在 {now}",
+  "reaches": "<b>{names}</b>に影響が及ぶ",
+  "sep": "、",
+  "reachesOnlyYou": "あなただけに及ぶ",
+  "doThis": "これで進める →",
+  "writeOwn": "または自分の一手を書く…",
+  "addFact": "「リポジトリが5万スターに達した」のように、状況の事実を書き足すこともできます"
+}

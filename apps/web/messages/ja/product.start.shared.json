@@ -1,0 +1,19 @@
+{
+  "today.q": "これから何を決めますか。",
+  "today.hint": "やりたいことと、その理由を書いてください…",
+  "today.example1": "仕事を辞めて、1年制の金融の修士課程に進む",
+  "today.example2": "杭州でスペシャルティコーヒーの店を開く",
+  "today.example3": "デモを持ってシリコンバレーに資金調達に行く",
+  "today.example4": "来年、成都で初めての家を買う",
+  "past.q": "どの瞬間に戻りたいですか。",
+  "past.hint": "実際にあった瞬間と、その立場に立ちたい人を書いてください…",
+  "past.example1": "2015年、Theranosの創業者の立場で",
+  "past.example2": "1985年、Appleを追われたスティーブ・ジョブズ",
+  "past.example3": "2008年、リーマン破綻の1週間前",
+  "past.example4": "ノキアがAndroidを採用しないと決めた年",
+  "continue": "続ける",
+  "noneToContinue": "続けられるプロジェクトはまだありません。",
+  "inProgress": "進行中",
+  "noneInProgress": "調査中、構築中のプロジェクトはありません。",
+  "monthSpend": "今月の使用額 <b>{amount}</b>"
+}

@@ -1,0 +1,11 @@
+{
+  "sep": "；",
+  "askFailed": "没有问成",
+  "people_other": "角色",
+  "facts_other": "事实",
+  "ties_other": "关系",
+  "sources_other": "来源",
+  "questionsFailed": "没能生成问题",
+  "stalled": "这一步已经停了很久，可能是运行它的进程中断了。",
+  "rewrite": "重新生成问题 →"
+}

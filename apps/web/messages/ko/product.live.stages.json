@@ -1,0 +1,7 @@
+{
+  "stage.know": "말씀하신 내용을 이해하는 중",
+  "stage.ask": "답을 기다리는 중",
+  "stage.world": "세계를 구축하는 중",
+  "stage.start": "시작을 쓰는 중",
+  "now": "지금: {stage}"
+}

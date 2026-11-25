@@ -1,0 +1,13 @@
+{
+  "noSuchWorld": "そのような世界はありません",
+  "related": "関連",
+  "lookPersona": "人の実際のばらつき",
+  "lookRisk": "リスクの実際の確率",
+  "lookSetup": "設定の実際のばらつき",
+  "lookNewcomer": "新たに加わりうる人",
+  "lookAny": "現実世界の出典",
+  "low": "低",
+  "middle": "中",
+  "high": "高",
+  "byPopulationNorm": "母集団の標準に従う"
+}

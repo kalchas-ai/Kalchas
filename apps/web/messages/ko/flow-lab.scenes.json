@@ -1,0 +1,16 @@
+{
+  "mark.move": "나",
+  "mark.reaction": "",
+  "mark.chance": "확률",
+  "mark.world": "세계",
+  "mark.next": "다음",
+  "mark.lookup": "확인",
+  "seeNextStep": "다음 단계 보기",
+  "checkingReality": "실제 세계의 상황을 확인하는 중",
+  "sidesInStep": "이 단계의 당사자 · {count}",
+  "seePerson": "이 사람 보기",
+  "you": "나",
+  "drawn": "{trait}: {value}",
+  "facts_other": "사실 {count}개",
+  "peopleAndInstitutions": "인물과 기관 · {count}"
+}

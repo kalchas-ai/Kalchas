@@ -1,0 +1,15 @@
+{
+  "world": "世界",
+  "time": "時間",
+  "you": "あなた",
+  "otherSources_other": "ほか{count}件の出典",
+  "stageWho": "人物と機関を定めています",
+  "stageFact": "調査結果を事実として書き出しています",
+  "stagePersona": "くじを引き、一人ひとりを書いています",
+  "stageTie": "つながりの網を結んでいます",
+  "stageCrowd": "集団を設定しています",
+  "stageRisk": "確率で決めるリスクを調べています",
+  "stageMile": "本筋とマイルストーンを定めています",
+  "stageOpen": "世界が動き出します",
+  "buildTitle": "世界を構築中"
+}

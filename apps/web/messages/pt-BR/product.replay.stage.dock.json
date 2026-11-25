@@ -1,0 +1,14 @@
+{
+  "draftAnswer": "(Rascunho) No produto, o consultor responde apenas com o que você sabe neste momento; quando você pergunta o que outra pessoa vai pensar, ele diz que é um palpite. Perguntar não move o tempo, e o mundo não muda por isso.",
+  "title": "Pergunte ao consultor",
+  "note": "O tempo não anda · dentro da partida ele sabe só o que você sabe; fora dela, pode pesquisar online",
+  "busy": "O consultor está pesquisando…",
+  "placeholder": "Pergunte ao consultor: quem vai reagir como, onde está o risco neste passo…",
+  "send": "Enviar",
+  "sendHint": "Enviar (Return)",
+  "empty": "Pergunte o que quiser esclarecer antes de decidir. Perguntar é só perguntar: o mundo não se move por isso. Para agir, escolha um caminho no próximo passo acima ou escreva sua própria jogada.",
+  "redirected": "O que você escreveu como jogada era uma pergunta, então ela é respondida aqui e o tempo não andou",
+  "useCheck": "{title} · adicionar à minha jogada",
+  "view": "<b>{who}</b> (um palpite): {likely}",
+  "askFailed": "Não foi possível perguntar: {error}"
+}

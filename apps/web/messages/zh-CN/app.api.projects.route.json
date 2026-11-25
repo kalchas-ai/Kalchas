@@ -1,0 +1,4 @@
+{
+  "writeMatter": "请写下你在想的事",
+  "noKey": "需要先配好 OpenRouter 的 key：在 openrouter.ai/keys 申请，粘贴到 Kalchas 文件夹里的 .env.local，再按一次回车。"
+}

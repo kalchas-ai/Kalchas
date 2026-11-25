@@ -1,0 +1,17 @@
+{
+  "mark.move": "Vous",
+  "mark.reaction": "",
+  "mark.chance": "Sort",
+  "mark.world": "Monde",
+  "mark.next": "Suite",
+  "mark.lookup": "Vérif.",
+  "seeNextStep": "Voir la prochaine étape",
+  "checkingReality": "Vérification de l’état des choses dans le monde réel",
+  "sidesInStep": "Camps à cette étape · {count}",
+  "seePerson": "Voir cette personne",
+  "you": "Vous",
+  "drawn": "{trait} : {value}",
+  "facts_one": "{count} fait",
+  "facts_other": "{count} faits",
+  "peopleAndInstitutions": "Personnes et institutions · {count}"
+}

@@ -1,0 +1,16 @@
+{
+  "world": "Welt",
+  "time": "Zeit",
+  "you": "Du",
+  "otherSources_one": "{count} weitere Quelle",
+  "otherSources_other": "{count} weitere Quellen",
+  "stageWho": "Personen und Institutionen festlegen",
+  "stageFact": "Ergebnisse als Fakten festhalten",
+  "stagePersona": "Lose ziehen, jede Person aufschreiben",
+  "stageTie": "Das Netz der Beziehungen knüpfen",
+  "stageCrowd": "Die Gruppen einrichten",
+  "stageRisk": "Die Risiken heraussuchen, die ausgewürfelt werden müssen",
+  "stageMile": "Hauptlinie und Meilensteine festlegen",
+  "stageOpen": "Die Welt setzt sich in Bewegung",
+  "buildTitle": "Die Welt wird aufgebaut"
+}

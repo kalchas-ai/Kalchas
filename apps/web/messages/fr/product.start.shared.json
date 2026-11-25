@@ -1,0 +1,19 @@
+{
+  "today.q": "Que vous apprêtez-vous à décider ?",
+  "today.hint": "Dites ce que vous voulez faire, et pourquoi…",
+  "today.example1": "Quitter mon emploi pour un master de finance d’un an",
+  "today.example2": "Ouvrir un café de spécialité à Hangzhou",
+  "today.example3": "Présenter une démo dans la Silicon Valley pour lever des fonds",
+  "today.example4": "Acheter mon premier logement à Chengdu l’an prochain",
+  "past.q": "À quel moment voulez-vous revenir ?",
+  "past.hint": "Un moment qui a vraiment eu lieu, et dont vous voulez occuper la place…",
+  "past.example1": "2015, à la place de la fondatrice de Theranos",
+  "past.example2": "Steve Jobs en 1985, écarté d’Apple",
+  "past.example3": "La semaine précédant la chute de Lehman en 2008",
+  "past.example4": "L’année où Nokia a renoncé à Android",
+  "continue": "Continuer",
+  "noneToContinue": "Aucun projet à continuer pour l’instant.",
+  "inProgress": "En cours",
+  "noneInProgress": "Aucun projet en recherche ou en construction.",
+  "monthSpend": "Dépensé ce mois-ci <b>{amount}</b>"
+}

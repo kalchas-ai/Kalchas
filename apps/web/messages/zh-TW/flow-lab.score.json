@@ -1,0 +1,15 @@
+{
+  "world": "世界",
+  "time": "時間",
+  "you": "你",
+  "otherSources_other": "另外 {count} 個來源",
+  "stageWho": "界定人物與機構",
+  "stageFact": "把情報寫成事實",
+  "stagePersona": "抽籤，寫下每個人",
+  "stageTie": "串起關係網",
+  "stageCrowd": "設定群體",
+  "stageRisk": "查出必須擲骰的風險",
+  "stageMile": "訂出主線與里程碑",
+  "stageOpen": "世界開始運轉",
+  "buildTitle": "建構世界"
+}

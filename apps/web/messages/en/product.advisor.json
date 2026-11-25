@@ -1,0 +1,10 @@
+{
+  "connectionLost": "The connection dropped; the answer may still appear in the conversation later",
+  "sourcesChecked_one": "Checked {count} source",
+  "sourcesChecked_other": "Checked {count} sources",
+  "lookingUp": "Looking it up…",
+  "writingAnswer": "Writing the answer…",
+  "thinking": "Thinking…",
+  "askFailed": "Could not ask: {error}",
+  "dismiss": "OK"
+}

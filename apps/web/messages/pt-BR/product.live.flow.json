@@ -1,0 +1,15 @@
+{
+  "sep": "; ",
+  "askFailed": "Não foi possível perguntar",
+  "people_one": "pessoa",
+  "people_other": "pessoas",
+  "facts_one": "fato",
+  "facts_other": "fatos",
+  "ties_one": "vínculo",
+  "ties_other": "vínculos",
+  "sources_one": "fonte",
+  "sources_other": "fontes",
+  "questionsFailed": "Não foi possível escrever as perguntas",
+  "stalled": "Este passo está parado há muito tempo; o processo que o executava pode ter sido interrompido.",
+  "rewrite": "Escrever as perguntas de novo →"
+}

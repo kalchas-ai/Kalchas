@@ -1,0 +1,15 @@
+{
+  "world": "世界",
+  "time": "时间",
+  "you": "你",
+  "otherSources_other": "另外 {count} 个来源",
+  "stageWho": "界定人物与机构",
+  "stageFact": "把情报写成事实",
+  "stagePersona": "抽签，写下每个人",
+  "stageTie": "连出关系网",
+  "stageCrowd": "设定群体",
+  "stageRisk": "查必掷的风险",
+  "stageMile": "定主线和里程碑",
+  "stageOpen": "世界开始运转",
+  "buildTitle": "构建世界"
+}

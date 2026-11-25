@@ -1,0 +1,17 @@
+{
+  "mark.move": "Você",
+  "mark.reaction": "",
+  "mark.chance": "Acaso",
+  "mark.world": "Mundo",
+  "mark.next": "Próx.",
+  "mark.lookup": "Checar",
+  "seeNextStep": "Ver o próximo passo",
+  "checkingReality": "Verificando como as coisas estão no mundo real",
+  "sidesInStep": "Lados neste passo · {count}",
+  "seePerson": "Ver esta pessoa",
+  "you": "Você",
+  "drawn": "{trait}: {value}",
+  "facts_one": "{count} fato",
+  "facts_other": "{count} fatos",
+  "peopleAndInstitutions": "Pessoas e instituições · {count}"
+}

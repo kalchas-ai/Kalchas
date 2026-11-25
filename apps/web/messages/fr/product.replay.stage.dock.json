@@ -1,0 +1,14 @@
+{
+  "draftAnswer": "(Brouillon) Dans le produit, le conseiller ne répond qu’avec ce que vous savez à ce moment ; quand vous demandez ce que quelqu’un d’autre pensera, il précise que c’est une supposition. Demander ne fait pas avancer le temps, et le monde ne change pas pour autant.",
+  "title": "Demander au conseiller",
+  "note": "Le temps n’avance pas · dans la partie, il ne sait que ce que vous savez ; en dehors, il peut chercher en ligne",
+  "busy": "Le conseiller se renseigne…",
+  "placeholder": "Demandez au conseiller : qui réagira comment, où est le risque à cette étape…",
+  "send": "Envoyer",
+  "sendHint": "Envoyer (Entrée)",
+  "empty": "Demandez tout ce que vous voulez éclaircir avant de décider. Demander n’est que demander : le monde ne bouge pas pour autant. Pour agir, choisissez une voie à la prochaine étape ci-dessus ou écrivez votre propre action.",
+  "redirected": "Ce que vous avez écrit comme action était une question ; la réponse est donc ici et le temps n’a pas avancé",
+  "useCheck": "{title} · l’ajouter à mon action",
+  "view": "<b>{who}</b> (supposition) : {likely}",
+  "askFailed": "Impossible de poser la question : {error}"
+}

@@ -1,0 +1,19 @@
+{
+  "today.q": "¿Qué estás a punto de decidir?",
+  "today.hint": "Di qué quieres hacer y por qué…",
+  "today.example1": "Dejar mi trabajo para hacer un máster de un año en finanzas",
+  "today.example2": "Abrir una cafetería de especialidad en Hangzhou",
+  "today.example3": "Llevar una demo a Silicon Valley para recaudar fondos",
+  "today.example4": "Comprar mi primera vivienda en Chengdu el año que viene",
+  "past.q": "¿A qué momento quieres volver?",
+  "past.hint": "Un momento que ocurrió de verdad y en cuyo lugar quieres ponerte…",
+  "past.example1": "2015, en el lugar de la fundadora de Theranos",
+  "past.example2": "Steve Jobs en 1985, apartado de Apple",
+  "past.example3": "La semana antes de la caída de Lehman en 2008",
+  "past.example4": "El año en que Nokia decidió no apostar por Android",
+  "continue": "Continuar",
+  "noneToContinue": "Aún no hay proyectos que continuar.",
+  "inProgress": "En curso",
+  "noneInProgress": "No hay proyectos en investigación ni en construcción.",
+  "monthSpend": "Gastado este mes <b>{amount}</b>"
+}

@@ -1,0 +1,15 @@
+{
+  "sep": "; ",
+  "askFailed": "Could not ask",
+  "people_one": "person",
+  "people_other": "people",
+  "facts_one": "fact",
+  "facts_other": "facts",
+  "ties_one": "tie",
+  "ties_other": "ties",
+  "sources_one": "source",
+  "sources_other": "sources",
+  "questionsFailed": "Could not write the questions",
+  "stalled": "This step has been stopped for a long time; the process running it may have been interrupted.",
+  "rewrite": "Write the questions again →"
+}

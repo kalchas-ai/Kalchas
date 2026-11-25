@@ -1,0 +1,22 @@
+{
+  "example": "Quit my job for a one-year master's in finance",
+  "start": "Start",
+  "tagline": "More than one future",
+  "pressEnter": "Press Enter to start",
+  "whatMatter": "What are you thinking about?",
+  "recent": "Recent",
+  "all": "All {count}",
+  "waiting_one": "{count} waiting for you",
+  "waiting_other": "{count} waiting for you",
+  "skip": "Skip",
+  "toAsk": "To ask · {count}",
+  "sources_one": "<n>{count}</n> source",
+  "sources_other": "<n>{count}</n> sources",
+  "read": "<n>{count}</n> read",
+  "sourcesHead": "Sources · {count}",
+  "findings": "Findings",
+  "world": "World",
+  "end": "End",
+  "when": "{date} · Decision {step}",
+  "youAre": "You are {name}"
+}

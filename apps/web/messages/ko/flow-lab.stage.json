@@ -1,0 +1,19 @@
+{
+  "sourceRead": "{total}개 중 {read}개 읽음",
+  "factsKnown_other": "사실 {count}개 파악",
+  "fromSources_other": "출처 {count}개에서",
+  "people_other": "{n}명",
+  "thinking": "생각 중{dots}",
+  "facts_other": "사실 {count}",
+  "move": "행동",
+  "institution": "기관",
+  "person": "인물",
+  "rollOdds": "한 번 굴림 · {p}% · {picked}",
+  "roll": "한 번 굴림 · {picked}",
+  "profile": "프로필",
+  "worldStarts": "세계가 움직이기 시작해요",
+  "startsFrom": "{start} · 플레이는 이 순간에서 시작해요",
+  "startsHere": "플레이는 이 순간에서 시작해요",
+  "draw": "제비 뽑기 · {what}",
+  "realDistribution": "실제 분포에 따라: {text}"
+}

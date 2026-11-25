@@ -1,0 +1,16 @@
+{
+  "mark.move": "あなた",
+  "mark.reaction": "",
+  "mark.chance": "確率",
+  "mark.world": "世界",
+  "mark.next": "次",
+  "mark.lookup": "確認",
+  "seeNextStep": "次のステップを見る",
+  "checkingReality": "現実世界の状況を確認しています",
+  "sidesInStep": "このステップの当事者 · {count}",
+  "seePerson": "この人物を見る",
+  "you": "あなた",
+  "drawn": "{trait}: {value}",
+  "facts_other": "事実 {count}",
+  "peopleAndInstitutions": "人物と機関 · {count}"
+}

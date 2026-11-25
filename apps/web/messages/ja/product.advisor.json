@@ -1,0 +1,9 @@
+{
+  "connectionLost": "接続が切れました。回答は、あとで会話に表示されることがあります",
+  "sourcesChecked_other": "{count}件の出典を確認",
+  "lookingUp": "調べています…",
+  "writingAnswer": "回答を書いています…",
+  "thinking": "考えています…",
+  "askFailed": "質問できませんでした: {error}",
+  "dismiss": "OK"
+}

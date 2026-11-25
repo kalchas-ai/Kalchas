@@ -1,0 +1,21 @@
+{
+  "kind.self": "你",
+  "kind.person": "人物",
+  "kind.org": "组织",
+  "kind.inst": "机构",
+  "kind.group": "群体",
+  "kind.other": "其他",
+  "seatLine": "你 · 这个世界从你的位置看",
+  "crowdLine_other": "{kind} · {n} 人",
+  "forceLine": "外部力量",
+  "factsLine_other": "{kind} · 已知 {count} 条事实",
+  "close": "关闭",
+  "hide": "收起",
+  "showAll": "展开全部",
+  "profile": "人设",
+  "known": "已知的事",
+  "inThisPlay": "这一局里",
+  "fog_other": "他知道 {count} 件你还不知道的事",
+  "ties": "关系",
+  "you": "你"
+}

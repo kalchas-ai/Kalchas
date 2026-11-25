@@ -1,0 +1,19 @@
+{
+  "sourceRead": "已读 {read} / {total}",
+  "factsKnown_other": "已知 {count} 条事实",
+  "fromSources_other": "来自 {count} 个来源",
+  "people_other": "{n} 人",
+  "thinking": "在想{dots}",
+  "facts_other": "事实 {count}",
+  "move": "行动",
+  "institution": "机构",
+  "person": "人物",
+  "rollOdds": "掷一次 · {p}% · {picked}",
+  "roll": "掷一次 · {picked}",
+  "profile": "人设",
+  "worldStarts": "世界开始运转",
+  "startsFrom": "{start} · 从这一刻开始推演",
+  "startsHere": "从这一刻开始推演",
+  "draw": "抽签 · {what}",
+  "realDistribution": "按真实分布：{text}"
+}

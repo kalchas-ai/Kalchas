@@ -1,0 +1,4 @@
+{
+  "writeMatter": "Escreva o que você está pensando em fazer",
+  "noKey": "O Kalchas precisa primeiro de uma chave do OpenRouter. Pegue uma em openrouter.ai/keys, cole no .env.local da pasta do Kalchas e aperte Enter de novo."
+}

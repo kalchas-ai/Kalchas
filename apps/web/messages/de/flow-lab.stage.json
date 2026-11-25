@@ -1,0 +1,23 @@
+{
+  "sourceRead": "Gelesen {read} / {total}",
+  "factsKnown_one": "{count} Fakt bekannt",
+  "factsKnown_other": "{count} Fakten bekannt",
+  "fromSources_one": "aus {count} Quelle",
+  "fromSources_other": "aus {count} Quellen",
+  "people_one": "{n} Person",
+  "people_other": "{n} Personen",
+  "thinking": "Denkt nach{dots}",
+  "facts_one": "{count} Fakt",
+  "facts_other": "{count} Fakten",
+  "move": "Zug",
+  "institution": "Institution",
+  "person": "Person",
+  "rollOdds": "Ein Wurf · {p} % · {picked}",
+  "roll": "Ein Wurf · {picked}",
+  "profile": "Profil",
+  "worldStarts": "Die Welt setzt sich in Bewegung",
+  "startsFrom": "{start} · der Durchlauf beginnt in diesem Moment",
+  "startsHere": "Der Durchlauf beginnt in diesem Moment",
+  "draw": "Lose ziehen · {what}",
+  "realDistribution": "Nach der echten Verteilung: {text}"
+}

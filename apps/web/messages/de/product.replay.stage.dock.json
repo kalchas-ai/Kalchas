@@ -1,0 +1,14 @@
+{
+  "draftAnswer": "(Entwurf) Im Produkt antwortet der Berater nur mit dem, was du in diesem Moment weißt; wenn du fragst, was jemand anderes denken wird, sagt er, dass es eine Vermutung ist. Fragen lässt die Zeit nicht weiterlaufen, und die Welt verändert sich dadurch nicht.",
+  "title": "Den Berater fragen",
+  "note": "Die Zeit steht still · im Durchlauf weiß er nur, was du weißt; außerhalb kann er online nachschlagen",
+  "busy": "Der Berater schlägt nach…",
+  "placeholder": "Frag den Berater: wer wie reagiert, wo in diesem Schritt das Risiko liegt…",
+  "send": "Senden",
+  "sendHint": "Senden (Eingabetaste)",
+  "empty": "Frag alles, was dir vor der Entscheidung klar sein soll. Fragen ist nur Fragen: Die Welt bewegt sich dadurch nicht. Um zu handeln, wähle oben im nächsten Schritt einen Weg oder schreib deinen eigenen Zug.",
+  "redirected": "Was du als Zug geschrieben hast, war eine Frage, deshalb wird sie hier beantwortet und die Zeit ist nicht weitergelaufen",
+  "useCheck": "{title} · in meinen Zug übernehmen",
+  "view": "<b>{who}</b> (eine Vermutung): {likely}",
+  "askFailed": "Frage fehlgeschlagen: {error}"
+}

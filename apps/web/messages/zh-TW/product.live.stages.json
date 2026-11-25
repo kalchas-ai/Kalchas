@@ -1,0 +1,7 @@
+{
+  "stage.know": "理解你說的事",
+  "stage.ask": "等你回答",
+  "stage.world": "建構世界",
+  "stage.start": "撰寫開局",
+  "now": "目前：{stage}"
+}

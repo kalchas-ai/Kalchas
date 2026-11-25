@@ -1,0 +1,15 @@
+{
+  "sep": " ; ",
+  "askFailed": "Impossible de poser la question",
+  "people_one": "personne",
+  "people_other": "personnes",
+  "facts_one": "fait",
+  "facts_other": "faits",
+  "ties_one": "lien",
+  "ties_other": "liens",
+  "sources_one": "source",
+  "sources_other": "sources",
+  "questionsFailed": "Impossible de rédiger les questions",
+  "stalled": "Cette étape est à l’arrêt depuis longtemps ; le processus qui l’exécutait a peut-être été interrompu.",
+  "rewrite": "Rédiger à nouveau les questions →"
+}

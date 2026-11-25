@@ -1,0 +1,12 @@
+{
+  "odds": "Wahrscheinlichkeit {pct} %",
+  "moreInStep_one": "{count} weitere in diesem Schritt",
+  "moreInStep_other": "{count} weitere in diesem Schritt",
+  "sinceStart": "Beim Start {start} → jetzt {now}",
+  "reaches": "Erreicht <b>{names}</b>",
+  "sep": ", ",
+  "reachesOnlyYou": "Erreicht nur dich",
+  "doThis": "Das tun →",
+  "writeOwn": "Oder schreib deinen eigenen Zug…",
+  "addFact": "Du kannst auch einen Fakt zur Lage ergänzen, etwa „das Repo hat 50.000 Sterne erreicht“"
+}

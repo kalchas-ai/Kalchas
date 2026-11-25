@@ -1,0 +1,11 @@
+{
+  "sep": "; ",
+  "askFailed": "질문하지 못했어요",
+  "people_other": "명",
+  "facts_other": "사실",
+  "ties_other": "관계",
+  "sources_other": "출처",
+  "questionsFailed": "질문을 쓰지 못했어요",
+  "stalled": "이 단계가 오랫동안 멈춰 있어요. 실행하던 프로세스가 중단됐을 수 있어요.",
+  "rewrite": "질문 다시 쓰기 →"
+}

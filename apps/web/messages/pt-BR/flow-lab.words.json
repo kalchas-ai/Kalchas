@@ -1,0 +1,22 @@
+{
+  "example": "Largar meu emprego para fazer um mestrado de um ano em finanças",
+  "start": "Começar",
+  "tagline": "Mais de um futuro",
+  "pressEnter": "Pressione Enter para começar",
+  "whatMatter": "No que você está pensando?",
+  "recent": "Recentes",
+  "all": "Todos ({count})",
+  "waiting_one": "{count} esperando por você",
+  "waiting_other": "{count} esperando por você",
+  "skip": "Pular",
+  "toAsk": "A perguntar · {count}",
+  "sources_one": "<n>{count}</n> fonte",
+  "sources_other": "<n>{count}</n> fontes",
+  "read": "<n>{count}</n> lidas",
+  "sourcesHead": "Fontes · {count}",
+  "findings": "Achados",
+  "world": "Mundo",
+  "end": "Fim",
+  "when": "{date} · Decisão {step}",
+  "youAre": "Você é {name}"
+}

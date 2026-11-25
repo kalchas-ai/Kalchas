@@ -1,0 +1,9 @@
+{
+  "connectionLost": "연결이 끊겼어요. 답은 나중에 대화에 나타날 수도 있어요",
+  "sourcesChecked_other": "출처 {count}개 확인함",
+  "lookingUp": "찾아보는 중…",
+  "writingAnswer": "답을 쓰는 중…",
+  "thinking": "생각하는 중…",
+  "askFailed": "질문하지 못했어요: {error}",
+  "dismiss": "확인"
+}

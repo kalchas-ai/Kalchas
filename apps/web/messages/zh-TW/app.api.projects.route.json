@@ -1,0 +1,4 @@
+{
+  "writeMatter": "請寫下你在想的事",
+  "noKey": "需要先設定 OpenRouter 的 key：到 openrouter.ai/keys 申請，貼到 Kalchas 資料夾裡的 .env.local，再按一次 Enter。"
+}

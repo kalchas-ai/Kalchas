@@ -1,0 +1,7 @@
+{
+  "stage.know": "Compréhension de ce que vous avez dit",
+  "stage.ask": "En attente de votre réponse",
+  "stage.world": "Construction du monde",
+  "stage.start": "Rédaction du début",
+  "now": "En ce moment : {stage}"
+}

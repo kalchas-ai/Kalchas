@@ -1,0 +1,16 @@
+{
+  "world": "World",
+  "time": "Time",
+  "you": "You",
+  "otherSources_one": "{count} other source",
+  "otherSources_other": "{count} other sources",
+  "stageWho": "Defining the people and institutions",
+  "stageFact": "Writing the findings down as facts",
+  "stagePersona": "Drawing lots, writing down each person",
+  "stageTie": "Connecting the web of ties",
+  "stageCrowd": "Setting up the groups",
+  "stageRisk": "Looking up the risks that must be rolled",
+  "stageMile": "Setting the main line and milestones",
+  "stageOpen": "The world starts moving",
+  "buildTitle": "Building the world"
+}

@@ -1,0 +1,4 @@
+{
+  "writeMatter": "Schreib auf, worüber du nachdenkst",
+  "noKey": "Kalchas braucht zuerst einen OpenRouter-Schlüssel. Hol dir einen unter openrouter.ai/keys, füge ihn in .env.local im Kalchas-Ordner ein und drück noch einmal Enter."
+}

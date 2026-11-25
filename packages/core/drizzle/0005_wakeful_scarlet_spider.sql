@@ -1,0 +1,1 @@
+ALTER TABLE `worlds` ADD `forecast_id` text;
