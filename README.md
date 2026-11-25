@@ -13,7 +13,8 @@
   <a href="#">Watch the film</a> · <a href="#quick-start">Quick start</a> · <a href="https://discord.gg/yAKhW9JhK5">Discord</a>
 </p>
 
-<!-- The product film goes on this line: drag kalchas.mp4 here in GitHub's editor and it becomes a player. -->
+https://github.com/user-attachments/assets/5d72aa48-3475-42d0-b88b-d6017f519494
+
 
 ## How it works
 
