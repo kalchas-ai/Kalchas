@@ -3,6 +3,9 @@
   "private": true,
   "type": "module",
   "packageManager": "pnpm@10.12.4",
+  "engines": {
+    "node": ">=22.13"
+  },
   "scripts": {
     "dev": "npm --prefix packages/core run build && npm --prefix apps/web run dev",
     "dev:lan": "npm --prefix packages/core run build && npm --prefix apps/web run dev:lan",

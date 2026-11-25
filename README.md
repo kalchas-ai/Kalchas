@@ -33,7 +33,7 @@ Live through parallel worlds before you’re stuck with just one.
 
 ```text
 Install Kalchas for me and open it: https://github.com/kalchas-ai/Kalchas
-Clone the repo, make sure I have Node 20+ and pnpm, then run pnpm install.
+Clone the repo, make sure I have Node 22.13+ and pnpm, then run pnpm install.
 Copy .env.example to .env.local and ask me for my OpenRouter key (openrouter.ai/keys).
 Start it with pnpm start and open http://localhost:3000/app in my browser.
 ```
